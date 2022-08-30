@@ -9,9 +9,12 @@ public class Std {
 		System.out.println("hello");
 		System.out.println("hi");
 		System.out.println("there");
+		System.out.println("santhosh");
+
 	}
 	public void stdName() {
 		System.out.println("student name is santhosh");
+		System.out.println("student name is sabari");
 
 	}
 
