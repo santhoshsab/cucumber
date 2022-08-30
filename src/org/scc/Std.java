@@ -11,6 +11,7 @@ public class Std {
 	}
 	public void stdName() {
 		System.out.println("student name is santhosh");
+		System.out.println("student name is sabari");
 
 	}
 
